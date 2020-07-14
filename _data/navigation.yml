@@ -1,18 +1,15 @@
 nav:
-  - title: "Services"
-    section: services
+  - title: "Payment"
+    section: payment
 
-  - title: "Portfolio"
+  - title: "Packages"
     section: portfolio
-    
-  - title: "About"
+
+  - title: "Services"
     section: timeline
 
-  - title: "Team"
+  - title: "Testimonials"
     section: team
 
-  - title: "Contact"
+  - title: "Review"
     section: contact
-
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/

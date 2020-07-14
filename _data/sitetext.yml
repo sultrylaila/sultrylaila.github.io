@@ -1,60 +1,83 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    title: Welcome to the website of
+    text: Indian Foxy
+    button: Make me Cum
+    buttonlink: "#payment" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "Payment Methods"
+    text: The following Payment methods are accepted currently.
+           We are continuously expanding the available payment methods so you can enjoy the content easily.
+           In case of any queries, feel free to contact on <a href="https://www.snapchat.com/add/indianfoxy1"> Public Snap </a>
+           or <a href="https://twitter.com/HelpFoxy"> Twitter </a> (for example if you need to do Amazon GC of another country).
+    section: payment
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Amazon GC](https://www.amazon.de/Digitaler-Amazon-Gutschein-Blaues-Amazon/dp/B07Q1JNC7R/&language=en_GB)"
+        desc: "Currently we accept only amazon.de (Amazon Germany) Gift Cards (though you can buy them from anywhere in the world), it is the cheapest option all around.
+               You can buy them directly from [Amazon.de](https://www.amazon.de/Digitaler-Amazon-Gutschein-Blaues-Amazon/dp/B07Q1JNC7R/&language=en_GB)
+               or from [dundle](https://dundle.com/amazon/?c=de) if you want to buy using PayPal, BTC, CC etc. Email them to indianfoxy234@yahoo.com
+               Send the screenshot to [Public Snap](https://www.snapchat.com/add/indianfoxy1). It can take up to 6 hours to add you to premium."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[PayPal](https://www.paypal.me/indianfoxy234)"
+        desc: "All payments are to be done as friends and family. Other Payments incur charges by PayPal and would not be accepted.
+               Send the screenshot to [Public Snap](https://www.snapchat.com/add/indianfoxy1). It can take up to 6 hours to add you to premium.
+               In case of any query or if you are not added to premium yet, contact on [Public Snap](https://www.snapchat.com/add/indianfoxy1)
+               or [Twitter](https://twitter.com/HelpFoxy) before cancelling or refunding the payment."
+        icon: fab fa-cc-paypal
+      - title: "[CashApp](https://cash.app/$honeybuns789/)"
+        desc: "Send the screenshot to [Public Snap](https://www.snapchat.com/add/indianfoxy1). It can take up to 6 hours to add you to premium.
+               In case of any query or if you are not added to premium yet, contact on [Public Snap](https://www.snapchat.com/add/indianfoxy1)
+               or [Twitter](https://twitter.com/HelpFoxy) before cancelling or refunding the payment."
+        icon: fas fa-dollar-sign
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Packages"
+    text: "I offer the following packages. Select the Package to find more."
     section: portfolio
-    
+
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "About"
+    text: "Hi you naughty pervert! Join now and you’ll get to see everything from the cute boys I fuck in real life,
+           the hot girls whose pussy I get to taste, and the most intimate moments of my life.
+           I’m super excited for you to join so I can make you cum, see the hot videos you send me, and get up close and personal while we chat it up.
+           Send me your super sexy dick pics, and make me wet while you send me all of your dirtiest thoughts. What are you waiting for?"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Package: Premium, Daddy"
+        year: "Pictures"
+        desc: "You get all the juicy and sexy pictures from all my solo sessions, and sessions with my fuckbuddies.
+               From getting creampied to threesomes."
         image: assets/img/timeline/1.jpg
-        alt: 
+        alt:
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Package: Premium, Daddy"
+        year: "Videos"
+        desc: "You get access to all the videos from my sex life. Watch me use my toys on me until I am all wet. Watch me play with myself.
+               Come watch me have a hot shower."
         image: assets/img/timeline/2.jpg
-        alt: 
+        alt:
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Package: Daddy"
+        year: "Private Sexting"
+        desc: "Join me for some steamy hot sexting session. Let us use the magic of our words and imagination to make each other cum.
+               You get my priority, all my time and long sexting sessions if you are subscribed to daddy package."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
+        #align: #default is left
+      - title: "Package: Daddy"
+        year: Custom Requests
+        desc: "Do you have any specefic requests for me? Want to see me ass up face down? Anything else?
+               Your request gets priority if you are subscribed to daddy package."
+        image: assets/img/timeline/4.png
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+      - title: "Package: Daddy"
+        year: "Meet-ups"
+        desc: "If we are close by, and if I feel safe enough, we can meet up for some good time together.
+               Only available if you are on the daddy package."
+        image: assets/img/timeline/5.jpg
+        alt:
+        align: left
+    end: "Cum <br> Join <br> Me"
 
 about:
     title: "About Us"
@@ -63,77 +86,47 @@ about:
 
 clients:
     section: clients
-    max-height: 100px
+    max-height: 00px
     horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
+
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Testimonials"
+    text: ""
+    subtext: These are the latest testimonials by verified subscribers.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Cory"
+        role: "After 0 action for 2.5 years since my divorce, I got the GF experience with the girl I had masturbated to for so long.
+               The sex was amazing and she was even better. Thank you so much."
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+            icon: fab fa-snapchat
+      - name: "Shawn Bishop"
+        role: "Such a little slut! Lit content.
+               She'll doing anything to make you happy. She loves to fuck and get wild with girls and guys.
+               Her photos are so dirty! She makes me drool. You won't be disappointed with this girls sexy premium!"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://www.snapchat.com/add/shawn_bisho5102
+            icon: fab fa-snapchat
+      - name: "Robert"
+        role: "I love the content its very sexy and never the same stuff always something different"
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-          
+            icon: fab fa-snapchat
+
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Give your review here. If you want your review to be published like the testimonials above, kindly fill the form here."
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://twitter.com/HelpFoxy
+        icon: "fab fa-twitter"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
