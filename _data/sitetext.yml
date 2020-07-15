@@ -100,7 +100,7 @@ team:
                The sex was amazing and she was even better. Thank you so much."
         image: assets/img/team/1.jpg
         social:
-          - url: https://twitter.com
+          - url: https://www.snapchat.com/
             icon: fab fa-snapchat
       - name: "Shawn Bishop"
         role: "Such a little slut! Lit content.
@@ -114,16 +114,16 @@ team:
         role: "I love the content its very sexy and never the same stuff always something different"
         image: assets/img/team/1.jpg
         social:
-          - url: https://twitter.com
+          - url: https://www.snapchat.com/
             icon: fab fa-snapchat
 
 contact:
     title: "Contact Us"
-    text: "Give your review here. If you want your review to be published like the testimonials above, kindly fill the form here."
+    text: "Give your review here. If you want your review to be published like the testimonials above, kindly message on the Premium Snap."
     section: contact
 
 footer:
-    legal: "Privacy Policy"
+    legal: "Legal"
     social:
       - url: https://twitter.com/HelpFoxy
         icon: "fab fa-twitter"
