@@ -16,6 +16,6 @@ If we are close by, we can also meet up and spend some quality time together.
 ### Payment Methods
 - [Amazon.de GC](https://www.amazon.de/Digitaler-Amazon-Gutschein-Blaues-Amazon/dp/B07Q1JNC7R/&language=en_GB) or buy on [dundle](https://dundle.com/amazon/giftcard?v=50&c=de) : 85 € /3 months
 - [~~PayPal~~]() : ~~99 $ /3months~~
-- [CashApp](https://cash.app/$honeybuns789/29) : 99 $ /3 months
+- [CashApp](https://cash.app/$cupcakegirl789/29) : 99 $ /3 months
 
 #### PayPal is currently down. Please contact if you have only PayPal.

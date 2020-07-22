@@ -15,6 +15,6 @@ Send me your super sexy dick pics, and make me wet while you send me all of your
 ### Payment Methods
 - [Amazon.de GC](https://www.amazon.de/Digitaler-Amazon-Gutschein-Blaues-Amazon/dp/B07Q1JNC7R/&language=en_GB) or buy on [dundle](https://dundle.com/amazon/giftcard?v=25&c=de) : 25 € /month
 - [~~PayPal~~](https://www.paypal.me/) : ~~29 $ /month~~
-- [CashApp](https://cash.app/$honeybuns789/29) : 29 $ /month
+- [CashApp](https://cash.app/$cupcakegirl789/29) : 29 $ /month
 
 My PayPal is currently down. Please contact if you have only PayPal.
