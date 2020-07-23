@@ -17,10 +17,10 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : Indian Foxy
-email      : indianfoxy234@yahoo.com #this is also the email contact forms will go to
-description: "Website for the sexy Indian Foxy"
-author     : Indian Foxy
+title      : Sultry Laila
+email      : tbhunk1@gmail.com #this is also the email contact forms will go to
+description: "Website for the sexy Sultry Laila"
+author     : Sultry Laila
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px

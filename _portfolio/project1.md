@@ -7,14 +7,15 @@ caption:
   subtitle: Access to my Premium Snap
   thumbnail: /assets/img/portfolio/01-thumbnail.jpg
 ---
-"Hi you naughty pervert! Join now and you’ll get to see everything from the cute boys I fuck in real life,
-the hot girls whose pussy I get to taste, and the most intimate moments of my life.
-I’m super excited for you to join so I can make you cum, see the hot videos you send me, and get up close and personal while we chat it up.
-Send me your super sexy dick pics, and make me wet while you send me all of your dirtiest thoughts. What are you waiting for?"
+Hello love! I am glad you are here. We are going to have so much fun together.
+Come on in and you can enjoy all the sexy pictures videos and more. Let my petite body do the magic.
+Do you want to see me play with myself? Do you want to make me really really wet with all your arousing messages?
+Do you have something specific in mind for me to do? You want to exchange nudes and enjoy the overflowing sexual energy?
+What are you waiting for? Come join me, lets have some fun.
 
 ### Payment Methods
-- [Amazon.de GC](https://www.amazon.de/Digitaler-Amazon-Gutschein-Blaues-Amazon/dp/B07Q1JNC7R/&language=en_GB) or buy on [dundle](https://dundle.com/amazon/giftcard?v=25&c=de) : 25 € /month
-- [~~PayPal~~](https://www.paypal.me/) : ~~29 $ /month~~
+- [Amazon.de GC](https://www.amazon.in/Amazon-mail-Pay-Gift-Card/dp/B00KGE2ER2/) or buy on [dundle](https://dundle.com/amazon/?c=in) : 2500 ₹ /month
+- [PayPal](https://www.paypal.com/paypalme/desidelicacy/99) : 29 $ /month
 - [CashApp](https://cash.app/$cupcakegirl789/29) : 29 $ /month
 
 My PayPal is currently down. Please contact if you have only PayPal.
