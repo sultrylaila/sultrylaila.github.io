@@ -15,7 +15,7 @@ services:
       - title: "[Amazon GC](https://www.amazon.in/Amazon-mail-Pay-Gift-Card/dp/B00KGE2ER2/)"
         desc: "Currently we accept only amazon.in (Amazon India) Gift Cards (though you can buy them from anywhere in the world).
                You can buy them directly from [Amazon.in](https://www.amazon.in/Amazon-mail-Pay-Gift-Card/dp/B00KGE2ER2/)
-               or from [dundle](https://dundle.com/amazon/?c=in) if you want to buy using PayPal, BTC, CC etc. Email them to tbhunk1@gmail.com
+               or from [dundle](https://dundle.com/amazon/?c=in) if you want to buy using PayPal, BTC, CC etc. Email them to lailasultry@gmail.com
                Send the screenshot to [Public Snap](https://www.snapchat.com/add/sultrylaila). It can take up to 6 hours to add you to premium."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "[PayPal]()"
