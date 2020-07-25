@@ -16,6 +16,6 @@ What are you waiting for? Come join me, lets have some fun.
 ### Payment Methods
 - [Amazon.de GC](https://www.amazon.in/Amazon-mail-Pay-Gift-Card/dp/B00KGE2ER2/) or buy on [dundle](https://dundle.com/amazon/?c=in) : 2500 ₹ /month
 - [PayPal](https://www.paypal.com/paypalme/desidelicacy/99) : 29 $ /month
-- [CashApp](https://cash.app/$honeybird789/29) : 29 $ /month
+- [CashApp](https://cash.app/$sultrylaila/29) : 29 $ /month
 
 My PayPal is currently down. Please contact if you have only PayPal.
