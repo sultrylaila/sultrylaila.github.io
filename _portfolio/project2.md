@@ -19,7 +19,7 @@ If we are close by, we can also meet up and spend some quality time together.
 
 ### Payment Methods
 - [Amazon.de GC](https://www.amazon.in/Amazon-mail-Pay-Gift-Card/dp/B00KGE2ER2/) or buy on [dundle](https://dundle.com/amazon/?c=in) : 7500 ₹ /3 months
-- [PayPal](https://www.paypal.com/paypalme/desidelicacy/99) : 99 $ /3months
+- [PayPal]() : 99 $ /3months
 - [CashApp](https://cash.app/$sultrylaila/99) : 99 $ /3 months
 
 #### PayPal is currently down. Please contact if you have only PayPal.
